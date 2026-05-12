@@ -122,15 +122,3 @@ Possible fixes:
 - redownload APK
 - clear emulator cache
 
----
-
-## Additional Resources
-
-Solver strategies:
-https://blockblastdownload.com/block-blast-solver/
-
-iOS compatibility information:
-https://blockblastdownload.com/mod-apk-for-ios/
-
-Gameplay tips:
-https://blockblastdownload.com/game-guide/
