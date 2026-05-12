@@ -4,6 +4,9 @@ This repository contains gameplay analysis resources, puzzle-solving strategies,
 
 The focus is improving puzzle efficiency, board management, and gameplay consistency across Android devices and PC emulators.
 
+Official project resource and update hub:
+
+https://blockblastdownload.com/
 ---
 
 ## Included Resources
