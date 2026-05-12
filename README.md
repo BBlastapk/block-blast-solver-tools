@@ -106,23 +106,3 @@ Offline sessions generally improve:
 
 This repository exists for gameplay analysis, troubleshooting education, and Android optimization guidance related to puzzle gaming experiences.
 
-
-## Touch Response and Placement Consistency
-
-One overlooked factor in puzzle gameplay performance is touch responsiveness during long sessions.
-
-Even small delays caused by:
-- background applications
-- battery optimization
-- thermal throttling
-- low storage space
-
-can affect placement accuracy during crowded board states.
-
-Players using larger screens or emulator setups often notice improved pattern recognition because additional screen space makes future placements easier to visualize.
-
-Additional gameplay resources and Android optimization guides are available through the [Block Blast gameplay resource hub](https://blockblastdownload.com/).
-
-For players focused on board management and placement analysis, the puzzle-solving strategy tool also provides useful gameplay references:
-https://blockblastdownload.com/block-blast-solver/
-
